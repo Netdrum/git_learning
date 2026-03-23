@@ -2,3 +2,5 @@ This is a file made directly on Github
 I will attempt to pull it down to VSCode and make changes there
 Then push it back up with changes 
 These are the changes I am making in VSCode and will push back to github
+I have created a new brach using teh command git checkout -b new-feature
+new-feature is the name of the new branch
